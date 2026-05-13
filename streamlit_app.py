@@ -1,4 +1,3 @@
-!pip install joblib spacy re
 import streamlit as st
 import joblib
 import re
